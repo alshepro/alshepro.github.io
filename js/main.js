@@ -50,7 +50,7 @@
         itemsCustom : [
 	        [0, 1],
 	        [700, 2],
-	        [960, 3]
+	        [960, 2]
 	     ],
         navigationText: false
     });
